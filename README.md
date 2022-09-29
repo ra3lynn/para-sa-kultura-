@@ -3,4 +3,3 @@
 
 
 ## Pork Sisig
-theme: minimal
