@@ -1,5 +1,6 @@
 # My Top 2 Favorite Filipino Foods 
-# ᕙ(`▿´)ᕗ
+# ᕙ(` ▿ ´)ᕗ
+---------
 ## <em> Pork Sinigang </em>
 ---------
 ### Sinigang has always been the only food I could eat days on days without getting tired of it. I love the sourness of the tamarind soup and all the vegetables that are included in the dish. The vegetables in the recipe are interchangeable. I mainly enjoy my sinigang with broccoli, okra, string beans, tomato, and onion. Most of these vegetables can be seen in the photo. You may also change out the type of meat in your sinigang. I've had it with fish before, but I also know that you can use beef.
