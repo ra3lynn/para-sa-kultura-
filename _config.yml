@@ -1,7 +1,7 @@
 title: para sa kultura
-logo: /assets/img/logo.png
+logo: ![1,466 Philippine Flag Illustrations & Clip Art - iStock](https://media.istockphoto.com/vectors/flag-of-philippines-vector-id657672852?k=20&m=657672852&s=612x612&w=0&h=5JzhwEMcgiK6OBEjm1L944ZB_A8LyfX7q-NZSQWHfSs=)
 description: Minimal is a theme for GitHub Pages.
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 remote_theme: pages-themes/minimal@v0.2.0
