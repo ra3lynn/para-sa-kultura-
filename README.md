@@ -8,7 +8,9 @@ Sinigang has always been the only food I could eat days on days without getting 
 
 <strong>Here's a link to a sinigang recipe if you'd like to make it yourself (•◡•):</strong>
 [Pork Sinigang Recipe](https://panlasangpinoy.com/pork-sinigang-na-baboy-recipe/#recipe)
+
 ---------
+
 ## <em> Pork Tocino </em>
  Tocino is my favorite Filipino breakfast food. Its flavor is the opposite of sinigang, which is sweet. Unlike sinigang I've never had it with any other meat besides pork. I love to eat it as shown in the picture, with rice and sometimes egg. The way it is cooked in the photo is how I like it. I enjoy it a little burnt. Something I do when I eat it is dip it in vinegar. It seems weird but I really like the sweetness of the tocino and sourness of the vinegar together.  
 
