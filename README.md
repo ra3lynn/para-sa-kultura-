@@ -1,5 +1,5 @@
 # My Top 2 Favorite Filipino Foods 
-# ᕙ(` ▿ ´)ᕗ
+# ᕙ(` ▿´ )ᕗ
 ---------
 ## <em> Pork Sinigang </em>
 ---------
